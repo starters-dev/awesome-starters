@@ -1,0 +1,3 @@
+# [starters.dev](https://starters.dev) awesome list
+
+Here will be the sectioned list of all available starters at [starters-dev](https://github.com/starters-dev)...

@@ -1,6 +1,6 @@
 # awesome-[starters.dev](https://starters.dev)
 
-This list is a collection of starters (created and maintained by me) that are used in production, personal, and educational purposes on daily basis. No hard judgements ✌️
+A collection of tailor-made starters that are used in production, personal and educational purposes on daily basis. No hard judgements ✌️
 
 ## Contents
 

@@ -5,6 +5,7 @@ A collection of tailor-made starters that are used in production, personal and e
 ## Contents
 
 - [React Native](#react-native)
+- [Shopify](#shopify)
 - [Backend (Server)](#backend-server)
 - [Frontend](#frontend)
 - [Business](#business)
@@ -18,6 +19,10 @@ A collection of tailor-made starters that are used in production, personal and e
 - [rn-starter](https://github.com/kanzitelli/rn-starter) - Starter for React Native App! Powered by cli-rn, React Navigation (v6), RN UI lib, Mobx, Reanimated 2, Dark Mode, Localization, Notifications, Permissions, and much more.
 
 - [rnn-with-expo](https://github.com/starters-dev/rnn-with-expo) - Minimalistic template with [React Native Navigation](https://github.com/wix/react-native-navigation) and [Expo Modules](https://github.com/expo/expo).
+
+### Shopify
+
+- [shopify-app-template-typescript](https://github.com/kanzitelli/shopify-app-template-typescript) - Shopify App Template (Node) with TypeScript.
 
 ### Backend (Server)
 

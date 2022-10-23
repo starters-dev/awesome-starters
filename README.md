@@ -1,4 +1,4 @@
-# awesome-[starters.dev](https://starters.dev)
+# Awesome [Starters.Dev](https://starters.dev)
 
 A collection of tailor-made starters that are used in production, personal and educational purposes on daily basis. No hard judgements ✌️
 
@@ -7,7 +7,6 @@ A collection of tailor-made starters that are used in production, personal and e
 - [React Native](#react-native)
 - [Shopify](#shopify)
 - [DevOps](#devops)
-- [Backend](#backend)
 - [Frontend](#frontend)
 - [Business](#business)
 
@@ -28,8 +27,6 @@ A collection of tailor-made starters that are used in production, personal and e
 ### DevOps
 
 - [https-backend](https://github.com/starters-dev/https-backend) - universal HTTPS Backend. Run Docker (Compose) services behind Traefik w/ HTTPS. Includes PostgreSQL, Redis, Plausible Analytics, Frontend app, etc.
-
-### Backend
 
 - [parse-server](https://github.com/starters-dev/parse-server) - Minimal setup for [Parse Platform](https://parseplatform.org/) (Server & Dashboard) with a choice of three DB configs: PostgreSQL (Postgis), MongoDB or Percona Server MongoDB. Self-Hosted. Docker + Traefik + HTTPS.
 
